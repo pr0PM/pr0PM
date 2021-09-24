@@ -1,9 +1,11 @@
-### [nohello](https://www.nohello.com/2013/01/please-dont-say-just-hello-in-chat.html?m=1)
 
-# i code
-# i add
-# i commit
-# i push origin master
+```bash
+$ vi code.yaml
+$ git commit -aSm "fix"
+$ git push origin master
+```
+##### [nohello.com](https://www.nohello.com/2013/01/please-dont-say-just-hello-in-chat.html?m=1)
+
 
 <!--
 **pr0PM/pr0PM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
