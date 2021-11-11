@@ -5,7 +5,7 @@
 ```
 - ⚡ Fun fact: zsh git plugin is lit
 
-##### [no-hello.com](https://www.nohello.com/2013/01/please-dont-say-just-hello-in-chat.html?m=1)
+##### [no-hello.com](https://no-hello.com)
 
 
 <!--
