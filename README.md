@@ -1,10 +1,11 @@
 
 ```bash
-$ vi code.yaml
-$ git commit -aSm "fix"
-$ git push origin master
+➜ vi code.yaml
+➜ gl; gcb feature; gcam "fix"; ggp; gh pr create --base main --body "fix"; gco main; gl
 ```
-##### [nohello.com](https://www.nohello.com/2013/01/please-dont-say-just-hello-in-chat.html?m=1)
+- ⚡ Fun fact: zsh git plugin is lit
+
+##### [no-hello.com](https://www.nohello.com/2013/01/please-dont-say-just-hello-in-chat.html?m=1)
 
 
 <!--
