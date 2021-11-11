@@ -1,7 +1,7 @@
 
 ```bash
 ➜ vi code.yaml
-➜ gl; gcb feature; gcam "fix"; ggp; gh pr create --base main --body "fix"; gco main; gl
+➜ gl; gcb feature; gcam "fix"; ggp; gh pr create --base main --body "fix"; gco main
 ```
 - ⚡ Fun fact: zsh git plugin is lit
 
