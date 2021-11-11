@@ -3,7 +3,7 @@
 ➜ vi code.yaml
 ➜ gl; gcb feature; gcam "fix"; ggp; gh pr create --base main --body "fix"; gco main
 ```
-- ⚡ Fun fact: zsh git plugin is lit
+⚡ Fun fact: zsh git plugin is lit
 
 ##### [no-hello.com](https://no-hello.com)
 
