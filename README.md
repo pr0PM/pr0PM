@@ -1,13 +1,8 @@
+# 👋 
 
-```bash
-➜ vi code.yaml
-➜ gl; gcb feature; gcam "fix"; ggp; gh pr create --base main --body "fix"; gco main
-```
-⚡ Fun fact: zsh git plugin is lit
+[pr0PM.in](https://pr0pm.in/blogs)
 
-##### [no-hello.com](https://no-hello.com)
-
-
+---
 <!--
 **pr0PM/pr0PM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
