@@ -1,6 +1,7 @@
-# 👋 
+# Hi 👋 
 
-[pr0PM.in](https://pr0pm.in/blogs)
+You may check out my website [website](https://pr0pm.in/) and [telegram channel](https://t.me/s/pr0PMs) for random stuff.
+
 
 ---
 <!--
